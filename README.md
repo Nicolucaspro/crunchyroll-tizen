@@ -22,7 +22,7 @@
 
 #### In progress
 - [ ] My list screen and workflow
-- [ ] WebOS compatibility
+- [x] WebOS compatibility
 
 #### Pending
 - [ ] Migrate to react
